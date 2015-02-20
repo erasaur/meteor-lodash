@@ -5,14 +5,13 @@ Package.describe({
   git: "https://github.com/erasaur/meteor-lodash.git"
 });
 
-Npm.depends({ 'lodash': '3.2.0' });
-
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0');
 
-  api.addFiles(['lodash.js', 'client.js'], 'client');
-  api.addFiles('server.js', 'server');
+  api.addFiles('lodash/lodash.js');
+  api.addFiles('export.js');
 
   api.export('lodash');
   api.export('_');
 });
+
