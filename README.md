@@ -1,4 +1,4 @@
-A wrapper for [Lo-Dash](http://lodash.com) v3.2.0, a JavaScript utility library delivering consistency, modularity, performance, & extras. Lo-Dash can be used as a drop-in replacement for [Underscore.js](http://underscorejs.org).
+A wrapper for [Lo-Dash](http://lodash.com), a JavaScript utility library delivering consistency, modularity, performance, & extras. Lo-Dash can be used as a drop-in replacement for [Underscore.js](http://underscorejs.org).
 
 #### Usage
 ```
