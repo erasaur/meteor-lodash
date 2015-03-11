@@ -1,7 +1,7 @@
 Package.describe({
   name: "erasaur:meteor-lodash",
-  summary: "Wrapper for Lo-Dash v3.4.0",
-  version: "3.4.0",
+  summary: "Wrapper for Lo-Dash v3.5.0",
+  version: "3.5.0",
   git: "https://github.com/erasaur/meteor-lodash.git"
 });
 
