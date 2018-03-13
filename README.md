@@ -1,3 +1,5 @@
+### Note: This library is deprecated and no longer maintained. Please see https://guide.meteor.com/using-npm-packages.html
+
 A wrapper for [Lo-Dash](http://lodash.com), a JavaScript utility library delivering consistency, modularity, performance, & extras. Lo-Dash can be used as a drop-in replacement for [Underscore.js](http://underscorejs.org).
 
 #### Usage
